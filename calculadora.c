@@ -1,5 +1,5 @@
 #include<stdio.h>
-int maain(void){
+int main(void){
     float x=0,y=0, resultado=0;
     int op=0;
     do{
