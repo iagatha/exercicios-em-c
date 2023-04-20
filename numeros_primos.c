@@ -16,7 +16,7 @@ int main(){
     printf("\nDigite um numero inteiro positivo: ");
     scanf("%d", &n);
 
-    resultado =ehPrimo(n);
+    resultado = ehPrimo(n);
     printf("\nResultado do fatorial = %d", resultado);
     return 0;
 }
